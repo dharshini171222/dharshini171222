@@ -1,6 +1,6 @@
 # 👩‍💻 Dharshini S V
 
-🎯 *Aspiring Full Stack Developer | AI & RPA Enthusiast | ECE Undergrad*
+🎯 *Aspiring Full Stack Developer | AI & RPA Enthusiast | ECE Undergraduate
 
 ---
 
@@ -27,7 +27,7 @@
 
 - 🎓 **B.E. Electronics & Communication Engineering**  
   Velammal College of Engineering & Technology (2022–2026)  
-  CGPA: 8.39 (Till 5th Semester)
+  CGPA: 8.57 (Till 6th Semester)
 
 ---
 
